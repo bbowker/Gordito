@@ -1,1 +1,10 @@
-id, Day, Weight, Weight Unit, Height, Head, Length Unit, Notes
+id,Day,Weight,Weight Unit,Height,Head,Length Unit,Notes
+11,20 May 2017,206.0,oz,24.8,15.9,in,
+10,19 April 2017,177.0,oz,0.0,0.0,in,
+9,3 April 2017,155.0,oz,0.0,0.0,in,
+8,29 March 2017,4200.0,g,0.0,0.0,cm,
+7,27 March 2017,145.0,oz,0.0,0.0,in,
+6,24 March 2017,4020.0,g,0.0,0.0,cm,
+5,22 March 2017,3997.0,g,0.0,0.0,cm,3997
+2,21 March 2017,3947.0,g,0.0,0.0,cm,Public health nurse 
+1,17 March 2017,4170.0,g,56.0,0.0,cm,Birth measurements 
